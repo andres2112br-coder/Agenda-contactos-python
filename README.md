@@ -22,7 +22,7 @@ Aplicación de consola en Python para gestionar contactos: añadir, buscar y lis
 ## Cómo ejecutarlo
 
 ```bash
-python agenda_contactos.py
+agenda_contactos.py
 ```
 
 Requiere Python 3. Sin dependencias externas.
